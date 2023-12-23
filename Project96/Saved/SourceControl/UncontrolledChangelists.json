@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/unreal engine stuffs/Project96/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Blueprints/Game_Modes/Core/BP_GM_Core.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Blueprints/Game_Modes/Core/BP_PC_Core.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Blueprints/Game_Modes/Core/BP_Core_Character.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Untitled.umap",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Bean.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Material_003.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Material_002.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Material_001.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Black.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Bean_Skeleton.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Assets/Character/Bean_PhysicsAsset.uasset",
+				"E:/unreal engine stuffs/Project96/Content/Level/Booting_Level.umap",
+				"E:/unreal engine stuffs/Project96/Content/Level/MainMenu_Level.umap",
+				"E:/unreal engine stuffs/Project96/Content/StartUp_Level.umap",
+				"E:/unreal engine stuffs/Project96/Content/Level/StartUp_Level.umap",
+				"E:/unreal engine stuffs/Project96/Content/Level/BootScreen_Level.umap",
+				"E:/unreal engine stuffs/Project96/Content/Level/Testing_Level.umap"
+			]
+		}
+	]
+}
